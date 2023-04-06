@@ -1,0 +1,6 @@
+employee = {
+	"nom": "Marie Richardson",
+	"id": 1,
+	"recrutement": True,
+	"department": "Ventes"
+}
